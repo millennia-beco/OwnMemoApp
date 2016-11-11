@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">OwnMemoApp</string>
+    <string name="app_name">ミムルメモル</string>
+    <!-- main.xml -->
+    <string name="action_add">追加</string>
+    <!-- activity_edit.xml -->
+    <string name="hint_title">タイトル</string>
+    <string name="hint_content">内容</string>
+    <!-- edit.xml -->
+    <string name="action_delete">削除</string>
+    <string name="editactivity_title">編集</string>
+
 </resources>
